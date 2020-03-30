@@ -1,0 +1,18 @@
+nav{
+    background-color: #0004B5;
+}
+
+.brand-logo{
+    background-color: #0004B5;
+    font-family: "Audiowide", sans-serif;
+}
+
+body{
+    background-color: #3b3f41;
+}
+.help-icon{
+    padding-right: 20px;
+}
+container{
+    width: fit-content;
+}

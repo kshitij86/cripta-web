@@ -1,0 +1,26 @@
+nav{
+    background-color: #0004B5;
+}
+
+.brand-logo{
+    color: white;
+    background-color: #0004B5;
+    font-family: "Audiowide", sans-serif;
+}
+
+body{
+    background-color: #3b3f41;
+    font-family: "Abel", sans-serif;
+    font-size: 20px;
+}
+.help-icon{
+    padding-right: 20px;
+}
+
+card{
+    font-size: 30px;
+}
+
+.learn-more:hover{
+    color: black;
+}
